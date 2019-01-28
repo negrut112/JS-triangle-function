@@ -3,7 +3,7 @@
 
 <p>You can see the live preview on: <a href="https://negrut112.github.io/JS-triangle-function/">https://negrut112.github.io/JS-triangle-function/</a>.<br>
   
-<a href="https://i.imgur.com/EzsjnuW.jpg">https://i.imgur.com/EzsjnuW.jpg</a></p>
+<img src="https://i.imgur.com/EzsjnuW.jpg">
 
 <b>HTML</b>
 
