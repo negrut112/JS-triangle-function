@@ -5,12 +5,14 @@
   
 <img src="https://i.imgur.com/EzsjnuW.jpg">
 
-<b>HTML</b>
+## HTML
+
 
 <p>I have used the HTML to define the area where I’m working defining the height, width and the border style:</p>
 <p>&lt;canvas id=“myCanvas” height=“310” width=“500” style=“border: 1px solid black”&gt;&lt;/canvas&gt;</p>
 
-<b>JavaScript</b>
+## JavaScript
+
 
 <p>On JS , I made a function to generate a equilateral triangle using 3 parameters: first two are for starting point (top point) and the 3rd is the length of a side.</p>
 <pre><code>function triangle(x,y,a){<br>
