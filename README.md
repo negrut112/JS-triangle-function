@@ -13,7 +13,7 @@
 <b>JavaScript</b>
 
 <p>On JS , I made a function to generate a equilateral triangle using 3 parameters: first two are for starting point (top point) and the 3rd is the length of a side.</p>
-<p>function triangle(x,y,a){<br>
+<pre><code>function triangle(x,y,a){<br>
 context.fillStyle=‘rgb(203, 219, 0,0.7)’<br>
 context.strokeStyle=‘grey’<br>
 context.beginPath();<br>
@@ -23,4 +23,4 @@ context.lineTo(x+a/2,y+Math.sqrt(a<em>a-a/2</em>a/2)); // math formulas to find 
 context.lineTo(x, y);<br>
 context.fill();<br>
 context.stroke();<br>
-}</p>
+}</code></pre>
